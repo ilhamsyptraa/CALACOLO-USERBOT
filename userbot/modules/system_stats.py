@@ -241,7 +241,7 @@ async def amireallyalive(alive):
         f"┣• `✨ 𝓜𝓸𝓭𝓾𝓵𝓮𝓼  :`{len(modules)} \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯\n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n"
-        f"[ɪɴsᴛᴀɢʀᴀᴍ]({IG_ALIVE}) || [{REPO_NAME}](https://github.com/ramadhani892/RAM-UBOT) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) \n"
+        f"[ɪɴsᴛᴀɢʀᴀᴍ]({IG_ALIVE}) || [{REPO_NAME}](https://github.com/ilhamsyptraa/CALACOLO-USERBOT) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰")
     if ALIVE_LOGO:
         try:
