@@ -230,18 +230,18 @@ async def amireallyalive(alive):
         f"**     ۩  ⬚⃝⃟    {REPO_NAME} ⬚⃝⃟     ۩ ** \n\n"
         f"\n__**{RAM_TEKS_KOSTUM}**__\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰**\n"
-        f"**🤑 TUAN** \n"
+        f"**🤑 𝓟𝓮𝓶𝓲𝓵𝓲𝓴** \n"
         f" ➥ `{DEFAULTUSER}` \n"
-        f"**😋 Username** \n"
+        f"**😋 𝓤𝓼𝓮𝓻𝓷𝓪𝓶𝓮** \n"
         f" ➥ `@{user.username}` \n"
         f"╭✠╼━━━━━━❖━━━━━━━✠╮\n"
-        f"┣• `🙈 Telethon :`Ver {version.__version__} \n"
-        f"┣• `🥴 Python   :`Ver {python_version()} \n"
-        f"┣• `🤖 Bot Ver  :`7.0 \n"
-        f"┣• `✨ Modules  :`{len(modules)} \n"
+        f"┣• `🙈 𝓣𝓮𝓵𝓮𝓽𝓱𝓸𝓷 :`Ver {version.__version__} \n"
+        f"┣• `🥴 𝓟𝔂𝓽𝓱𝓸𝓷   :`Ver {python_version()} \n"
+        f"┣• `🤖 𝓑𝓸𝓽 𝓥𝓮𝓻  :`7.0 \n"
+        f"┣• `✨ 𝓜𝓸𝓭𝓾𝓵𝓮𝓼  :`{len(modules)} \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯\n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n"
-        f"[𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({IG_ALIVE}) || [{REPO_NAME}](https://github.com/ramadhani892/RAM-UBOT) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) \n"
+        f"[ɪɴsᴛᴀɢʀᴀᴍ]({IG_ALIVE}) || [{REPO_NAME}](https://github.com/ramadhani892/RAM-UBOT) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰")
     if ALIVE_LOGO:
         try:
@@ -269,16 +269,16 @@ async def amireallyalive(alive):
     await get_readable_time((time.time() - StartTime))
     output = (
         f"**╭✠╼━━━━━━❖━━━━━━━✠╮**\n"
-        f"       **♕  ⭐️𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐️  ♕** \n"
+        f"       **♕  ⭐️𝓒𝓐𝓛𝓐𝓒𝓞𝓛𝓞-𝓤𝓢𝓔𝓡𝓑𝓞𝓣⭐️  ♕** \n"
         f"**╰✠╼━━━━━━❖━━━━━━━✠╯**\n"
-        f"❃ **Tuan**             ➥ `{DEFAULTUSER}` \n"
-        f"❃ **Username**    ➥ `@{user.username}` \n"
-        f"❃ **Telethon**       ➥ `Versi {version.__version__}` \n"
-        f"❃ **Python**          ➥ `Versi {python_version()}` \n"
-        f"❃ **Versi Bot**      ➥ `7.0` \n"
-        f"❃ **Modul**           ➥ `{len(modules)}` \n\n"
+        f"❃ **𝓟𝓮𝓶𝓲𝓵𝓲𝓴**             ➥ `{DEFAULTUSER}` \n"
+        f"❃ **𝓤𝓼𝓮𝓻𝓷𝓪𝓶𝓮**    ➥ `@{user.username}` \n"
+        f"❃ **𝓣𝓮𝓵𝓮𝓽𝓱𝓸𝓷**       ➥ `Versi {version.__version__}` \n"
+        f"❃ **𝓟𝔂𝓽𝓱𝓸𝓷**          ➥ `Versi {python_version()}` \n"
+        f"❃ **𝓥𝓮𝓻𝓼𝓲𝓸𝓷**      ➥ `7.0` \n"
+        f"❃ **𝓜𝓸𝓭𝓾𝓵𝓮𝓼**           ➥ `{len(modules)}` \n\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰**\n"
-        f"[{REPO_NAME}](https://github.com/ramadhani892/RAM-UBOT) || [𝗚𝗥𝗢𝗨𝗣]({GROUP_LINK}) || [𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠]({IG_ALIVE})\n"
+        f"[{REPO_NAME}](https://github.com/ilhamsyptraa/CALACOLO-USERBOT) || [𝗚𝗥𝗢𝗨𝗣]({GROUP_LINK}) || [𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠]({IG_ALIVE})\n"
         f"**▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ **")
     if ALIVE_LOGO:
         try:
@@ -310,21 +310,21 @@ async def amireallyalive(alive):
     await asyncio.sleep(3)
     output = (
         f"**✠╼━━━━━━❖━━━━━━━✠ ** \n"
-        f"**          ⭐️𝗥𝗔𝗠-𝗨𝗕𝗢𝗧⭐️** \n"
+        f"**          ⭐️𝓒𝓐𝓛𝓐𝓒𝓞𝓛𝓞-𝓤𝓢𝓔𝓡𝓑𝓞𝓣⭐️** \n"
         f"**✠╼━━━━━━❖━━━━━━━✠** \n"
         f"╭✠╼━━━━━━❖━━━━━━━✠╮ \n"
-        f"┣|• `🤴 Majikan  :`{DEFAULTUSER} \n"
-        f"┣|• `💳 Username :`@{user.username} \n"
-        f"┣|• `👺 Telethon :`Ver {version.__version__} \n"
-        f"┣|• `🐉 Python   :`Ver {python_version()} \n"
+        f"┣|• `🤴 𝓞𝔀𝓷𝓮𝓻  :`{DEFAULTUSER} \n"
+        f"┣|• `💳 𝓤𝓼𝓮𝓻𝓷𝓪𝓶𝓮 :`@{user.username} \n"
+        f"┣|• `👺 𝓣𝓮𝓵𝓮𝓽𝓱𝓸𝓷 :`Ver {version.__version__} \n"
+        f"┣|• `🐉 𝓟𝔂𝓽𝓱𝓸𝓷   :`Ver {python_version()} \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯ \n"
         f"╭✠╼━━━━━━❖━━━━━━━✠╮ \n"
-        f"┣|• `Branch      :`RAM-UBOT \n"
-        f"┣|• `Bot Ver     :`7.0 \n"
-        f"┣|• `Modules     :`{len(modules)} Modules \n"
+        f"┣|• `𝓑𝓻𝓪𝓷𝓬𝓱      :`CALACOLO-USERBOT \n"
+        f"┣|• `𝓥𝓮𝓻𝓼𝓲𝓸𝓷     :`7.0 \n"
+        f"┣|• `𝓜𝓸𝓭𝓾𝓵𝓮𝓼     :`{len(modules)} Modules \n"
         f"╰✠╼━━━━━━❖━━━━━━━✠╯ \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰ \n"
-        f"[{REPO_NAME}](https://github.com/ramadhani892/RAM-UBOT) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) || [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({IG_ALIVE}) \n"
+        f"[{REPO_NAME}](https://github.com/ilhamsyptraa/CALACOLO-USERBOT) || [𝐆𝐑𝐎𝐔𝐏]({GROUP_LINK}) || [𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌]({IG_ALIVE}) \n"
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰")
     if ALIVE_LOGO:
         try:
