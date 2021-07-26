@@ -196,7 +196,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "CALACOLO-USERBOT")
+TERM_ALIAS = os.environ.get("TERM_ALIAS","CALACOLO-USERBOT")
 
 # Bot Version
 BOT_VER = os.environ.get("BOT_VER", "7.0")
@@ -474,7 +474,7 @@ with bot:
                     )
             except Exception:
                 return await event.edit(
-                    "`You cannot send inline results in this chat (caused by SendInlineBotResultRequest)`"
+                    "`You cannot send inline results in this chat (caused by CALACOLO)`"
                 )
 
 
