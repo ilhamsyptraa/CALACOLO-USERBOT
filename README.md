@@ -22,10 +22,10 @@
   
   
   
-# KALO FORK TUH KASIH BINTANG YA TOLOL!
+# KALO FORK TUH KASIH BINTANG YEE
 
 
-### JOIN DULU TOT!!:
+### JOIN DULU MARI!!
 
 <a href="https://t.me/fucekheart"><img src="https://img.shields.io/badge/Channel%20CALACOLO%20USERBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/San_Andreassss"><img src="https://img.shields.io/badge/Join-SAN%20ANDREAS-purple.svg?style=for-the-badge&logo=Telegram"></a>
@@ -49,9 +49,9 @@
 * **VIDEO TUTORIAL DEPLOY!** 🔧
 [<img src="https://media.giphy.com/media/J42mi8PJyabGshLj2K/giphy.gif">](https://t.me/UserbotChannel/36)
 
+
 ### AMBIL STRING DI BAWAH INI:
 
-##
 [![RAM-UBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@ramadhani892/RAM-UBOT-STRING)
 ##
 <a href="https://heroku.com/deploy?template=https://github.com/ilhamsyptrsa/CALACOLO-USERBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20CALACOLO%20USERBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
