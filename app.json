@@ -1,6 +1,6 @@
 {
-  "name": "RAM-UBOT",
-  "description": "[RAM-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
+  "name": "CALACOLO-USERBOT",
+  "description": "[CALACOLO-USERBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERSENANG-SENANG DI TELEGRAM.",
   "logo": "https://telegra.ph/file/be5a4a2cb6aac37ca7945.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ramadhani892/RAM-UBOT",
-  "telegram": "https://t.me/Ramadhaniiiiiii1",
-  "success_url": "https://t.me/teman_random",
+  "repository": "https://github.com/ilhamsyptraa/CALACOLO-USERBOT",
+  "telegram": "https://t.me/ilhamsyptraa",
+  "success_url": "https://t.me/San_Andreassss",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -90,9 +90,9 @@
       "required": false
     },
     "G_BAN_LOGGER_GROUP": {
-      "description": "Masuk @ootspambot Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @goku_isbot Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
+      "description": "Masuk @Amsterdam_s Dan @Las_Vegasssssss Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @AsistenCalacoloBot Atau @GOKU_ISBOT Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
       "value": "-1001122897608",
-      "required": false
+      "required": fals
     },
     "LOGSPAMMER": {
       "description": "Set this to True in case you want the error logs to be stored in the userbot log group, instead of spitting out the file in the current chat, requires a valid BOTLOG_CHATID to be set.",
