@@ -92,7 +92,7 @@
     "G_BAN_LOGGER_GROUP": {
       "description": "Masuk @Amsterdam_s Dan @Las_Vegasssssss Atau Buatlah Sebuah Grup Private/Public Lalu Masukkan @AsistenCalacoloBot Atau @GOKU_ISBOT Lalu Ketik /id, Salin dan hapus id dibawah ini lalu tempel.",
       "value": "-1001122897608",
-      "required": fals
+      "required": false
     },
     "LOGSPAMMER": {
       "description": "Set this to True in case you want the error logs to be stored in the userbot log group, instead of spitting out the file in the current chat, requires a valid BOTLOG_CHATID to be set.",
@@ -112,7 +112,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "12"
+        "version": "13"
       }
     }
   ],"buildpacks": [{
