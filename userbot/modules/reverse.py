@@ -35,7 +35,7 @@ async def okgoogle(img):
         photo = io.BytesIO()
         await bot.download_media(message, photo)
     else:
-        await img.edit("`Sayang Mohon Balas Ke Sticker`")
+        await img.edit("`Lord Mohon Balas Ke Sticker`")
         return
 
     if photo:
@@ -43,7 +43,7 @@ async def okgoogle(img):
         try:
             image = Image.open(photo)
         except OSError:
-            await img.edit("`Pornography Tidak Didukung ya sayang.`")
+            await img.edit("`Pornography Tidak Didukung.`")
             return
         name = "okgoogle.png"
         image.save(name, "PNG")
@@ -80,7 +80,7 @@ async def okgoogle(img):
         if guess and imgspage:
             await img.edit(f"[{guess}]({fetchUrl})\n\n`Sedang Mencari Gambar Yang Mirip...`")
         else:
-            await img.edit("`Maaf Sayang, Aku Tidak Bisa Menemukan Apapun`")
+            await img.edit("`Maaf Lord, Aku Tidak Bisa Menemukan Apapun`")
             return
 
         if img.pattern_match.group(1):
