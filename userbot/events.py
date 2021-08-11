@@ -101,7 +101,7 @@ def register(**args):
                     link = "Silahkan chat: @ilhamsyptraa"
                     text += "Untuk melaporkan kesalahan"
                     text += f"- tinggal teruskan pesan ini {link}.\n"
-                    text += "Rama Siap Membantu Kamu\n"
+                    text += "CALACOLO Siap Membantu Kamu\n"
 
                     ftext = "========== DISCLAIMER =========="
                     ftext += "\nThis file uploaded ONLY here,"
