@@ -38,9 +38,7 @@
 <h3 align="center">REPO CALACOLO USERBOT DIBUAT UNTUK BERSENANG - SENANG DI TELEGRAM.</h3>
 <p align="center">&nbsp;</p>
 
-### <a href="https://t.me/San_Andreassss"><img src="https://img.shields.io/badge/GROUP%20PUBLIK%20SATU-blue?style=flat&logo=Telegram" width="250" height="40.100" />
-### <a href="https://t.me/Amsterdam_s"><img src="https://img.shields.io/badge/GROUP%20PUBLIK%20DUA-blue?style=flat&logo=Telegram" width="250" height="40.100" />
-### <a href="https://t.me/Las_Vegasssssss"><img src="https://img.shields.io/badge/GROUP%20PUBLIK%20TIGA-blue?style=flat&logo=Telegram" width="250" height="40.100" />
+### <a href="https://t.me/San_Andreassss"><img src="https://img.shields.io/badge/GROUP%20PUBLIK-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
 ## Bagaimana Cara Deploy?
