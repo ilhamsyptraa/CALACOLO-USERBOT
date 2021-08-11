@@ -12,7 +12,7 @@
 
 ![VIEWS](https://komarev.com/ghpvc/?username=ramadhani892)
 
-<a href="https://t.me/San_Andreassss"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
+<a href="https://t.me/San_AndreasSini"><img src="https://img.shields.io/badge/KODE%20PENILAIAN-A+-blue.svg?style=for-the-badge&logo=Factor.">
 
 ## PEMILIK REPO
 * **Cᴀʟᴀᴄᴏʟᴏ**
@@ -28,7 +28,7 @@
 ### JOIN DULU MARI!!
 
 <a href="https://t.me/fucekheart"><img src="https://img.shields.io/badge/Channel%20CALACOLO%20USERBOT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/San_Andreassss"><img src="https://img.shields.io/badge/Join-SAN%20ANDREAS-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/San_AndreasSini"><img src="https://img.shields.io/badge/Join-SAN%20ANDREAS-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Penjelasan:
 * **Repo Nya toxic, Gajelas pokoknya mah.** 
@@ -38,7 +38,7 @@
 <h3 align="center">REPO CALACOLO USERBOT DIBUAT UNTUK BERSENANG - SENANG DI TELEGRAM.</h3>
 <p align="center">&nbsp;</p>
 
-### <a href="https://t.me/San_Andreassss"><img src="https://img.shields.io/badge/GROUP%20PUBLIK-blue?style=flat&logo=Telegram" width="250" height="40.100" />
+### <a href="https://t.me/San_AndreasSini"><img src="https://img.shields.io/badge/GROUP%20PUBLIK-blue?style=flat&logo=Telegram" width="250" height="40.100" />
 
 
 ## Bagaimana Cara Deploy?
